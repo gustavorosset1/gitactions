@@ -1,0 +1,18 @@
+{
+  "name": "gitactions",
+  "version": "13.0.318",
+  "description": "testone",
+  "main": "package.json",
+  "scripts": {
+    "test": "npm ci"
+  },
+  "repository": {
+    "type": "git",
+    "url": "workflow"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "gr",
+  "license": "UNLICENSED"
+}
