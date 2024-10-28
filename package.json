@@ -4,14 +4,16 @@
   "description": "testone",
   "main": "package.json",
   "scripts": {
-    "test": "npm ci"
+    "test": "npm ci",
+    "build": "npm run build"
   },
   "repository": {
     "type": "git",
     "url": "workflow"
   },
   "keywords": [
-    "test"
+    "test",
+    "build"
   ],
   "author": "gr",
   "license": "UNLICENSED"
