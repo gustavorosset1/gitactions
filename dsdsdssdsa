@@ -1,0 +1,154 @@
+[33mcommit 2ac091983e3153cb154ac8943e049976fdca429d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mworkflow[m[33m, [m[1;31morigin/workflow[m[33m)[m
+Author: gustavorosset1 <g_rosset@outlook.com>
+Date:   Mon Oct 28 12:28:01 2024 -0300
+
+    fixing
+
+[33mcommit 097777655a6e1aa4b8b0ad2682c75173a6fe99b4[m
+Author: gustavorosset1 <g_rosset@outlook.com>
+Date:   Mon Oct 28 12:21:52 2024 -0300
+
+    test
+
+[33mcommit c24fda53e030286062b23a8eea80fa6f5e1d4ccb[m
+Author: gustavorosset1 <g_rosset@outlook.com>
+Date:   Mon Oct 28 11:39:55 2024 -0300
+
+    test 2
+
+[33mcommit 7ba940a021517a697b1bf20e1b06b9de6282937c[m
+Author: gustavorosset1 <g_rosset@outlook.com>
+Date:   Mon Oct 28 11:35:52 2024 -0300
+
+    refactoring
+
+[33mcommit 942c9b6122362af05458725daf7f62c5cfa5c9ce[m
+Author: gustavorosset1 <g_rosset@outlook.com>
+Date:   Mon Oct 28 11:08:41 2024 -0300
+
+    refactor
+
+[33mcommit 87bccaebe0f9934b81c4f2927f1b7f8e228a6380[m
+Author: gustavorosset1 <g_rosset@outlook.com>
+Date:   Mon Oct 28 11:07:15 2024 -0300
+
+    changing folder
+
+[33mcommit c810dc210a8d0bfd660477e8f2977ecd3b08e4a4[m
+Author: gustavorosset1 <g_rosset@outlook.com>
+Date:   Mon Oct 28 11:04:08 2024 -0300
+
+    package implement
+
+[33mcommit 6895d7b467e56d5d9b1788c8b7dd9dd0ba914ec5[m
+Author: gustavorosset1 <g_rosset@outlook.com>
+Date:   Mon Oct 28 10:56:01 2024 -0300
+
+    build
+
+[33mcommit 6ad7a1d9136ed374a4f0eefbc25e9eaacf445f62[m
+Author: gustavorosset1 <g_rosset@outlook.com>
+Date:   Mon Oct 28 10:50:19 2024 -0300
+
+    new implementation
+
+[33mcommit 0fb062566eb392c7526425e555c511f48758ec2f[m
+Author: gustavorosset1 <g_rosset@outlook.com>
+Date:   Thu Oct 24 16:58:58 2024 -0300
+
+    new json
+
+[33mcommit f3e465273a7ccdc4a278a460b8b5e9a9982ed8f4[m
+Author: gustavorosset1 <g_rosset@outlook.com>
+Date:   Thu Oct 24 16:53:14 2024 -0300
+
+    package delete
+
+[33mcommit 3b3115d7fc42c491b6040c0f5eee3f70541bb393[m
+Author: gustavorosset1 <g_rosset@outlook.com>
+Date:   Thu Oct 24 16:51:41 2024 -0300
+
+    package
+
+[33mcommit 4f20aac443ebf5a67cc95a551236639628f7c1e7[m[33m ([m[1;32mmaster[m[33m)[m
+Author: gustavorosset1 <g_rosset@outlook.com>
+Date:   Thu Oct 24 14:39:23 2024 -0300
+
+    testing
+
+[33mcommit 1b94967bd49aaaa1b491423b2dd3b4847fd3f7c5[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: G Rosset <138031874+gustavorosset1@users.noreply.github.com>
+Date:   Thu Oct 24 10:42:26 2024 -0300
+
+    Create first_action.yml
+
+[33mcommit 9e1f4beacc3db5b60db863d8d62a8120890f0d7d[m
+Author: G Rosset <138031874+gustavorosset1@users.noreply.github.com>
+Date:   Wed Oct 23 16:32:06 2024 -0300
+
+    Update main.yml
+    
+    test
+
+[33mcommit b83f0a564b8aabb4dee4cbeac0536bc6172566fe[m
+Author: G Rosset <138031874+gustavorosset1@users.noreply.github.com>
+Date:   Wed Oct 23 16:06:21 2024 -0300
+
+    Update main.yml
+
+[33mcommit ba543191f6a5a71c46b5a527865da905c021a79e[m
+Author: G Rosset <138031874+gustavorosset1@users.noreply.github.com>
+Date:   Wed Oct 23 15:54:48 2024 -0300
+
+    Create main.yml
+
+[33mcommit fd701d3b0655c38354e3568b773a39fccedb4adb[m
+Merge: 67af7ff ee30e4a
+Author: G Rosset <138031874+gustavorosset1@users.noreply.github.com>
+Date:   Wed Oct 23 11:49:41 2024 -0300
+
+    Merge pull request #1 from gustavorosset1/testone
+    
+    rewrite code
+
+[33mcommit ee30e4a3d71df07d2cb8c95764e2ad2887b4af16[m
+Author: gustavorosset1 <g_rosset@outlook.com>
+Date:   Fri Oct 18 10:29:29 2024 -0300
+
+    rewrite code
+
+[33mcommit 67af7ff8af65576ab8d37a51ddc0f4330c3c10cb[m
+Author: gustavorosset1 <g_rosset@outlook.com>
+Date:   Thu Oct 17 14:43:20 2024 -0300
+
+    added
+
+[33mcommit 0be148dda1ecbd5ef8809142fa5f126cee4d6518[m
+Author: gustavorosset1 <g_rosset@outlook.com>
+Date:   Wed Oct 16 18:00:54 2024 -0300
+
+    design
+
+[33mcommit 5e6597a8818fe78319aa7992bf5669b1ec7e027c[m
+Author: gustavorosset1 <g_rosset@outlook.com>
+Date:   Wed Oct 16 17:54:52 2024 -0300
+
+    logo
+
+[33mcommit 0d79840561689b525f8b8ee3bb204cf6ce181fda[m
+Author: gustavorosset1 <g_rosset@outlook.com>
+Date:   Wed Oct 16 17:54:21 2024 -0300
+
+    design
+
+[33mcommit 5651bf2dc0a2865a7c87d4aa45656c19978742a2[m
+Author: gustavorosset1 <g_rosset@outlook.com>
+Date:   Wed Oct 16 17:22:04 2024 -0300
+
+    second
+
+[33mcommit a157a123b6fcb575f6c042e68ff5c81445e0edd9[m
+Author: gustavorosset1 <g_rosset@outlook.com>
+Date:   Wed Oct 16 17:15:11 2024 -0300
+
+    initial ommit
