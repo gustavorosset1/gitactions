@@ -4,7 +4,8 @@
   "description": "testone",
   "main": "package.json",
   "scripts": {
-    "test": "npm ci"
+    "test": "npm ci",
+    "build": "vite build"
   },
   "repository": {
     "type": "git",
